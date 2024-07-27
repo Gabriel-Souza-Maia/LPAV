@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.css": "tailwindcss",
+        "stdlib.h": "c",
+        "winsock2.h": "c",
+        "math.h": "c",
+        "string.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c"
+    }
+}
